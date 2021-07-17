@@ -1,9 +1,7 @@
 main:
-  - title: "About Me"
-    url: index.md
   - title: "CV"
-    url: /_pages/CV.md
+    url: /CV/
   - title: "Research"
-    url: /_pages/research.md
+    url: /research/
   - title: "Teaching"
-    url: /_pages/teaching.md
+    url: /teaching/
