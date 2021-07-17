@@ -1,7 +1,3 @@
----
-title: About Me
-filename: index.md
---- 
 
 <h2> About me </h2>
 
