@@ -1,6 +1,5 @@
 ---
 title: About Me
-layout: /_layouts/default.html
 filename: index.md
 --- 
 
