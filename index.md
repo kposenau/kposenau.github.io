@@ -1,5 +1,5 @@
 ---
-title: about me
+title: About Me
 ---
 <h2> About me </h2>
 
