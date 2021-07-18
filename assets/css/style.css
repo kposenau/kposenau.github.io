@@ -23,18 +23,25 @@ nav {
 }
 
 nav ul {
-    margin:0 0 20px;
+    margin: 0;
+    padding: 0;
     list-style: none;
 }
 
 nav li {
   display: inline-block;
-  margin:0 0 20px;
+  margin-right: 70px;
   position: relative;
+  padding-top: 25px;
 }
 
 nav a {
+  color: #393939;
   font-size: 14px;
+}
+
+nav a:hover {
+ color: #000;
 }
 
 h1, h2, h3 {
