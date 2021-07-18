@@ -20,6 +20,10 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
 }
+
+nav a:hover{
+ color: #000; 
+}
 @import "jekyll-theme-minimal";
 
 
