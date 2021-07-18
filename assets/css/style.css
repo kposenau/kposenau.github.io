@@ -19,23 +19,21 @@ p, ul, ol, table, pre, dl {
 }
 
 nav {
-  float: right;
+  float: left;
 }
 
 nav ul {
-    margin: 0;
-    padding: 0;
+    margin:0 0 20px;
     list-style: none;
 }
 
 nav li{
   display: inline-block;
-  margin-left: 70px;
-  padding-top: 23px;
+  margin:0 0 20px;
 }
 
 nav a {
-  color: #444;
+  color: #267CB9;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 28px; 
