@@ -10,6 +10,11 @@ nav li {
  padding-top: 25px;
 }
 
+nav a {
+ color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 @import "jekyll-theme-minimal";
 
 
