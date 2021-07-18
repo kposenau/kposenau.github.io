@@ -3,6 +3,11 @@
 nav {
   float : right;
 }
+
+nav li {
+ display: inline-block; 
+}
+
 @import "jekyll-theme-minimal";
 
 
