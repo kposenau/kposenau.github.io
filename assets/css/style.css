@@ -30,13 +30,12 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-right: 70px;
+  margin:0 0 20px;
   position: relative;
-  padding-top: 25px;
 }
 
 nav a {
-  color: #393939;
+  color: #222;
   font-size: 14px;
 }
 
