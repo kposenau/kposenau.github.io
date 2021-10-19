@@ -14,5 +14,5 @@ title: About Me
 <h4> Publications </h4>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> with Seung Jung Lee and Viktors Stebunovs
-<p> Journal of Banking and Finance, March 2020 </p>
+<p style="margin-left:10%; margin-right:10%;"> <i>Journal of Banking and Finance</i>, March 2020 </p>
 
