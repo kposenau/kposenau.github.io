@@ -10,11 +10,11 @@ title: About Me
 <h4> Working papers </h4>
 
 <a href="https://drive.google.com/file/d/1LnkNR7sFN3_BsVis5GPTEgzUjH4LuQc0/view">"The Risk and Return of Impact Investing Funds"</a> 
-With Jessica Jeffers and Tianshu Lyu
+<p>With Jessica Jeffers and Tianshu Lyu</p>
 
 <h4> Publications </h4>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
-With Seung Jung Lee and Viktors Stebunovs
+<p>With Seung Jung Lee and Viktors Stebunovs</p>
 <p style="margin-left:10%; margin-right:10%;"> <i>Journal of Banking and Finance</i>, March 2020 </p>
 
