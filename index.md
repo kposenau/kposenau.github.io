@@ -13,7 +13,7 @@ title: About Me
 <h4> Job market paper </h4>
 
 "Debt and Water: Effects of Bondholder Protections on Public Goods"
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">How do creditors influence the quality of local public goods through municipal debt contracts? I examine this question in the context of municipal water utility debt covenants. As utilities approach their covenant violation thresholds, they increase prices: covenant-constrained utilities raise prices 9\% relative to unconstrained utilities following a drought shock to water demand. But, utilities also reduce hiring growth and reduce manager pay as they approach thresholds. I also find that officials sequence their budget decisions according to a hierarchy: they raise revenues as much as possible, then cut spending. The incidence of cuts is first on water system expenses and then on administrative expenses. System problems and pipe breaks are most sensitive to distance to covenant thresholds for the most constrained utilities.</p>
 
 <h4> Working papers </h4>
 
