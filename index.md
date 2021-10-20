@@ -7,6 +7,11 @@ title: About Me
   
 <h2> Research </h2>
 
+<h4> Job market paper </h4>
+
+"Debt and Water: Effects of Bondholder Protections on Public Goods"
+<p style="margin-left:10%; margin-right:10%;"></p>
+
 <h4> Working papers </h4>
 
 <a href="https://drive.google.com/file/d/1LnkNR7sFN3_BsVis5GPTEgzUjH4LuQc0/view">"The Risk and Return of Impact Investing Funds"</a> 
