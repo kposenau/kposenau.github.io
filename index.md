@@ -3,7 +3,9 @@ title: About Me
 ---
 <h2> About me </h2>
 
- I am a University of Chicago Booth Finance PhD candidate. My research interests are in empirical corporate finance and public finance, with a focus on financial intermediation, sustainability, and municipal debt markets.
+ I am a University of Chicago Booth Finance PhD candidate. My research interests are in empirical corporate finance and public finance, with a focus on financial intermediation, sustainability, and municipal debt markets. 
+ <br>
+ I will be on the job market during winter 2021-2022.
   
 <h2> Research </h2>
 
