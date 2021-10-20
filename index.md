@@ -14,7 +14,10 @@ title: About Me
 
 <h4> Working papers </h4>
 
-<a href="https://drive.google.com/file/d/1LnkNR7sFN3_BsVis5GPTEgzUjH4LuQc0/view">"The Risk and Return of Impact Investing Funds"</a> 
+<p>
+<a href="https://drive.google.com/file/d/1LnkNR7sFN3_BsVis5GPTEgzUjH4LuQc0/view">"The Risk and Return of Impact Investing Funds"</a> <button class="accordion">  Abstract	<::after></::after></button>
+ </p>
+ <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Abstract here </div>
 <br>
 With Jessica Jeffers and Tianshu Lyu
 <p style="margin-left:10%; margin-right:10%;">We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed directly from financial statements. When accounting for market risk exposure, impact funds underperform the market, but outperform venture capital (VC) funds, consistent with the presence of frictions in private markets. Impact funds perform on par with funds matched on size, asset class, and vintage years. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a "luxury good." Adding factors does not change the estimate of performance.</p>
