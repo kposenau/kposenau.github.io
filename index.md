@@ -22,6 +22,12 @@ title: About Me
 With Jessica Jeffers and Tianshu Lyu
 <p style="margin-left:10%; margin-right:10%;">We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed directly from financial statements. When accounting for market risk exposure, impact funds underperform the market, but outperform venture capital (VC) funds, consistent with the presence of frictions in private markets. Impact funds perform on par with funds matched on size, asset class, and vintage years. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a "luxury good." Adding factors does not change the estimate of performance.</p>
 
+<br>
+"Investor Demand for Safe Assets and Liquidity Regulation"
+<br>
+<i>Available upon request</i>
+<p style="margin-left:10%; margin-right:10%;">Can banking regulation induce convenience yields? Not always. I study how a 2016 change in the Federal Reserve's Liquidity Coverage Ratio (LCR) that allowed banks to hold certain types of municipal securities as high quality liquid assets (HQLA) affected secondary market yields for these securities. I exploit two institutional features to identify the effect of the regulation on bank demand in a differences-in-differences design: first, banks are marginal investors only in one segment of the municipal bond market, the bank-qualified segment; second, the LCR differentially treated only certain types of municipal securities as HQLA. I find no significant pricing effects around the implementation date and little change in covered banking organization holdings of municipal securities. I conclude that the HQLA designation is not enough to create a safe asset: haircuts and exclusion limits affect whether regulatory assets command convenience yields.</p>
+
 <h4> Publications </h4>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
