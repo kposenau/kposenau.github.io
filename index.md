@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: PhD Candidate in Finance
 ---
 <h2> About me </h2>
 
