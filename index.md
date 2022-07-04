@@ -3,7 +3,7 @@ title:
 ---
 <h2> About me </h2>
 
- I am an Assistant Professor of Finance at the SC Johnson Cornell College of Business. My research interests are in empirical corporate finance and public finance, with a focus on financial intermediation, sustainability, and municipal debt markets. 
+I am an Assistant Professor of Finance at the SC Johnson Cornell College of Business. My research interests are in empirical corporate finance and public finance, with a focus on financial intermediation, sustainability, and municipal debt markets. I earned my PhD in finance from the University of Chicago Booth School of Business. 
  <br>
  <br>
  
