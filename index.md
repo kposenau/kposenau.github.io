@@ -1,5 +1,5 @@
 ---
-title: 
+title: Assistant Professor of Finance, Cornell University
 ---
 <h2> About me </h2>
 
