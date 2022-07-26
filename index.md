@@ -11,21 +11,31 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <h2> Research </h2>
 
 <h4> Working papers </h4>
-<a href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
-(Job market paper)
-<details>
- <summary>Abstract</summary>
-<p style="margin-left:10%; margin-right:10%;">How do creditors influence the quality of local public goods through municipal debt contracts? I examine this question in the context of municipal water utility debt covenants. As utilities approach their covenant violation thresholds, they increase prices. But, utilities also reduce hiring growth and reduce manager pay. I also find that officials sequence their budget decisions according to a pecking order hierarchy: they raise revenues as much as possible, then cut spending. The incidence of cuts is first on water system expenses and then on administrative expenses. System problems and pipe breaks are most sensitive to distance to covenant thresholds for the most constrained utilities. These utilities respond on a per capita basis to a $1 move toward covenant thresholds by raising revenues $0.26, cutting water system expenses $0.19, and reducing administrative expenses $0.13. I confirm the pecking order using a drought shock to water demand: covenant-constrained utilities raise prices 9% relative to unconstrained utilities following the shock. Local hostility to taxes imposes an additional friction on the revenue-raising process. After accounting for tax hostility following the drought shock, the overall effect of the rate covenant for an average covenant-constrained utility is a 9.5% reduction in water system expenses.</p>
-</details>
-<br>
-<a href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
-<br>
-With Jessica Jeffers and Tianshu Lyu
-<details>
- <summary>Abstract</summary>
-<p style="margin-left:10%; margin-right:10%;">We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed from financial statements. When accounting for market risk exposure, impact funds underperform the market, though not more so that comparable private market strategies. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a ``luxury good.'' We find that impact fund cash flows do not exhibit positive correlation with a public market sustainability factor, consistent with the idea that private and public market sustainability strategies capture distinct exposures.</p>
- </details>
-<br>
+<div>
+  <li>
+   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
+   <br>
+   (Job market paper)
+   <details>
+    <summary>Abstract</summary>
+     <p style="margin-left:10%; margin-right:10%;">How do creditors influence the quality of local public goods through municipal debt contracts? I examine this question in the context of municipal water utility debt covenants. As utilities approach their covenant violation thresholds, they increase prices. But, utilities also reduce hiring growth and reduce manager pay. I also find that officials sequence their budget decisions according to a pecking order hierarchy: they raise revenues as much as possible, then cut spending. The incidence of cuts is first on water system expenses and then on administrative expenses. System problems and pipe breaks are most sensitive to distance to covenant thresholds for the most constrained utilities. These utilities respond on a per capita basis to a $1 move toward covenant thresholds by raising revenues $0.26, cutting water system expenses $0.19, and reducing administrative expenses $0.13. I confirm the pecking order using a drought shock to water demand: covenant-constrained utilities raise prices 9% relative to unconstrained utilities following the shock. Local hostility to taxes imposes an additional friction on the revenue-raising process. After accounting for tax hostility following the drought shock, the overall effect of the rate covenant for an average covenant-constrained utility is a 9.5% reduction in water system expenses.
+    </p>
+  </details>
+ </li>
+</div>
+<div>
+  <li>
+   <a style="margin:0; font-weight:bold" href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
+  <br>
+  With Jessica Jeffers and Tianshu Lyu
+  <details>
+   <summary>Abstract</summary>
+    <p style="margin-left:10%; margin-right:10%;">We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed from financial statements. When accounting for market risk exposure, impact funds underperform the market, though not more so that comparable private market strategies. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a ``luxury good.'' We find that impact fund cash flows do not exhibit positive correlation with a public market sustainability factor, consistent with the idea that private and public market sustainability strategies capture distinct exposures.
+   </p>
+  </details>
+ </li>
+</div>
+
 <a href="https://kposenau.github.io/files/Boyer_Posenau_MMF_Munis_2021.pdf">"The Impact of the Shadow Banking Sector on Public Finance"</a>
 <br>
 With Chuck Boyer
