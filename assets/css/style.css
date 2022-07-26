@@ -311,11 +311,13 @@ footer {
 }
 
 details > summary {
-  list-style: square;
+  list-style: none;
   color: #808080;
   font-style:italic;
 }
 }
-
+summary {
+    display:block;
+}
 
 
