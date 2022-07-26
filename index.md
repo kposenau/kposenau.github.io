@@ -54,7 +54,7 @@ with Chuck Boyer
 </details>
  </li>
  </div>
-
+<br>
 <h4> Publications </h4>
 <div>
  <li>
