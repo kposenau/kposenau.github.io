@@ -44,7 +44,6 @@ With Chuck Boyer
 </details>
 
 <h4> Publications </h4>
-
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
 <br>
 With Seung Jung Lee and Viktors Stebunovs
