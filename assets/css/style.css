@@ -313,10 +313,9 @@ footer {
 details > summary {
   list-style: none;
   color: #808080;
+  font-style:italic;
 }
 }
-details > summary::-webkit-details-marker {
-  display: none;
-}
+
 
 
