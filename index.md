@@ -37,6 +37,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
   </details>
  </li>
 </div>
+  <p></p>
 <div>
   <li>
    <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Boyer_Posenau_MMF_Munis_2021.pdf">"The Impact of the Shadow Banking Sector on Public Finance"</a>
@@ -49,6 +50,7 @@ with Chuck Boyer
  </details>
  </li>
 </div>
+  <p></p>
 <div>
  <li>
 "Liquidity Regulation and Investor Demand for Safe Assets"
@@ -68,7 +70,7 @@ with Chuck Boyer
  <li>
 <a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a>
   <br>
-with Seung Jung Lee and Viktors Stebunovs, (Journal of Banking and Finance, 2020).
+with Seung Jung Lee and Viktors Stebunovs (Journal of Banking and Finance, 2020).
 <details>
  <summary>[+]Abstract</summary>
 <p>We extend the framework of Aikman et al. (2017) that maps vulnerabilities in the U.S. financial system to a broader set of financial vulnerabilities in 27 advanced and emerging economies. We capture a holistic view of the evolution of financial vulnerabilities before and after a banking crisis. We find that, before a banking crisis, pressures in asset valuations materialize first and then a build-up of imbalances in the external, financial, and nonfinancial sectors occurs. After a crisis, these vulnerabilities subside, but sovereign debt imbalances rise as governments try to mitigate the consequences of the crisis. Our main indexes, which aggregate these vulnerabilities, predicts banking crises better than the credit-to-GDP gap (CGG) or sector-specific vulnerability indexes, especially at long horizons. Our aggregate indexes also explain the variation in the severity of banking crises and the duration of recessions relatively well, as it incorporates possible spillover and amplification channels of financial vulnerabilities from one sector to another. Therefore, our framework is useful for macroprudential policy making and crisis management.</p>
