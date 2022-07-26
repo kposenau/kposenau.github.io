@@ -11,6 +11,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <h2> Research </h2>
 
 <h4> Working papers </h4>
+<ul>
 <div>
   <li>
    <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
@@ -54,8 +55,9 @@ with Chuck Boyer
 </details>
  </li>
  </div>
-<br>
+</ul>
 <h4> Publications </h4>
+<ul>
 <div>
  <li>
 <a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
@@ -66,3 +68,4 @@ with Chuck Boyer
 </details>
  </li>
  </div>
+ </ul>
