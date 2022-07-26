@@ -24,19 +24,28 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <a href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
 <br>
 With Jessica Jeffers and Tianshu Lyu
+<details>
+ <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed from financial statements. When accounting for market risk exposure, impact funds underperform the market, though not more so that comparable private market strategies. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a ``luxury good.'' We find that impact fund cash flows do not exhibit positive correlation with a public market sustainability factor, consistent with the idea that private and public market sustainability strategies capture distinct exposures.</p>
-
+ </details>
+ 
 <br>
 <a href="https://kposenau.github.io/files/Boyer_Posenau_MMF_Munis_2021.pdf">"The Impact of the Shadow Banking Sector on Public Finance"</a>
 <br>
 With Chuck Boyer
+<details>
+ <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">Prior to 2016, money market mutual funds held about $250 billion in municipal government debt. These funds were an important source of short-term and low cost financing for state and local governments as well as other municipal entities in the United States. In response to the financial crisis of 2008, the SEC implemented a series of reforms in 2016 designed to make these funds more stable. We study the effects of the reforms on the U.S. municipal debt market. We use the negative shock to demand to explore the effects of frictions and asset-specific demand in this market. We show that tax-exempt fund holdings of municipal debt dropped precipitously around implementation of the reform. Issuers more exposed to the reform experienced a decrease in lending from funds, an increase in borrowing costs from funds, and an overall increase in borrowing costs for all new municipal debt issues. Our results suggest the reform may have increased  borrowing costs for municipal entities that were more reliant on money markets for funding, and the effects were larger for smaller issuers. Our results demonstrate the importance of financial intermediaries, potential information frictions, and asset specific demand for municipal markets.</p>
+</details>
 
 <br>
 "Liquidity Regulation and Investor Demand for Safe Assets"
 <br>
 <i>Available upon request</i>
+<details>
+ <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">Can banking regulation induce convenience yields? Not always. I study how a 2016 change in the Federal Reserve's Liquidity Coverage Ratio (LCR) that allowed banks to hold certain types of municipal securities as high quality liquid assets (HQLA) affected secondary market yields for these securities. I exploit two institutional features to identify the effect of the regulation on bank demand in a differences-in-differences design: first, banks are marginal investors only in one segment of the municipal bond market, the bank-qualified segment; second, the LCR differentially treated only certain types of municipal securities as HQLA. I find no significant pricing effects around the implementation date and little change in covered banking organization holdings of municipal securities. I conclude that the HQLA designation is not enough to create a safe asset: haircuts and exclusion limits affect whether regulatory assets command convenience yields.</p>
+</details>
 
 <h4> Publications </h4>
 
@@ -46,5 +55,7 @@ With Seung Jung Lee and Viktors Stebunovs
 <br>
 <i>Journal of Banking and Finance</i>, March 2020
 
+<details>
+ <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">We extend the framework of Aikman et al. (2017) that maps vulnerabilities in the U.S. financial system to a broader set of financial vulnerabilities in 27 advanced and emerging economies. We capture a holistic view of the evolution of financial vulnerabilities before and after a banking crisis. We find that, before a banking crisis, pressures in asset valuations materialize first and then a build-up of imbalances in the external, financial, and nonfinancial sectors occurs. After a crisis, these vulnerabilities subside, but sovereign debt imbalances rise as governments try to mitigate the consequences of the crisis. Our main indexes, which aggregate these vulnerabilities, predicts banking crises better than the credit-to-GDP gap (CGG) or sector-specific vulnerability indexes, especially at long horizons. Our aggregate indexes also explain the variation in the severity of banking crises and the duration of recessions relatively well, as it incorporates possible spillover and amplification channels of financial vulnerabilities from one sector to another. Therefore, our framework is useful for macroprudential policy making and crisis management.</p>
-
+</details>
