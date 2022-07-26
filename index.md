@@ -15,6 +15,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <div>
   <li>
    <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
+   <br>
    (Job market paper) 
    <details>
     <summary>[+]Abstract</summary>
@@ -26,6 +27,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <div>
   <li>
    <a style="margin:0; font-weight:bold" href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
+   <br>
   with Jessica Jeffers and Tianshu Lyu
   <details>
    <summary>[+]Abstract</summary>
@@ -37,6 +39,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <div>
   <li>
    <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Boyer_Posenau_MMF_Munis_2021.pdf">"The Impact of the Shadow Banking Sector on Public Finance"</a>
+   <br>
 with Chuck Boyer
  <details>
   <summary>[+]Abstract</summary>
@@ -48,7 +51,8 @@ with Chuck Boyer
 <div>
  <li>
 "Liquidity Regulation and Investor Demand for Safe Assets"
-<i>(available upon request)</i>
+  <br>
+<i>(Available upon request)</i>
 <details>
  <summary>[+]Abstract</summary>
 <p>Can banking regulation induce convenience yields? Not always. I study how a 2016 change in the Federal Reserve's Liquidity Coverage Ratio (LCR) that allowed banks to hold certain types of municipal securities as high quality liquid assets (HQLA) affected secondary market yields for these securities. I exploit two institutional features to identify the effect of the regulation on bank demand in a differences-in-differences design: first, banks are marginal investors only in one segment of the municipal bond market, the bank-qualified segment; second, the LCR differentially treated only certain types of municipal securities as HQLA. I find no significant pricing effects around the implementation date and little change in covered banking organization holdings of municipal securities. I conclude that the HQLA designation is not enough to create a safe asset: haircuts and exclusion limits affect whether regulatory assets command convenience yields.</p>
@@ -61,8 +65,9 @@ with Chuck Boyer
 <ul>
 <div>
  <li>
-<a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
-(2020) with Seung Jung Lee and Viktors Stebunovs, <i>Journal of Banking and Finance</i>, Volume 112.
+<a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a>
+  <br>
+with Seung Jung Lee and Viktors Stebunovs, (Journal of Banking and Finance, 2020).
 <details>
  <summary>[+]Abstract</summary>
 <p>We extend the framework of Aikman et al. (2017) that maps vulnerabilities in the U.S. financial system to a broader set of financial vulnerabilities in 27 advanced and emerging economies. We capture a holistic view of the evolution of financial vulnerabilities before and after a banking crisis. We find that, before a banking crisis, pressures in asset valuations materialize first and then a build-up of imbalances in the external, financial, and nonfinancial sectors occurs. After a crisis, these vulnerabilities subside, but sovereign debt imbalances rise as governments try to mitigate the consequences of the crisis. Our main indexes, which aggregate these vulnerabilities, predicts banking crises better than the credit-to-GDP gap (CGG) or sector-specific vulnerability indexes, especially at long horizons. Our aggregate indexes also explain the variation in the severity of banking crises and the duration of recessions relatively well, as it incorporates possible spillover and amplification channels of financial vulnerabilities from one sector to another. Therefore, our framework is useful for macroprudential policy making and crisis management.</p>
