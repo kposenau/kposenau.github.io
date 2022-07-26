@@ -35,7 +35,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 </div>
 <div>
   <li>
-   <a tyle="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Boyer_Posenau_MMF_Munis_2021.pdf">"The Impact of the Shadow Banking Sector on Public Finance"</a>
+   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Boyer_Posenau_MMF_Munis_2021.pdf">"The Impact of the Shadow Banking Sector on Public Finance"</a>
 with Chuck Boyer
  <details>
   <summary>Abstract</summary>
@@ -47,7 +47,7 @@ with Chuck Boyer
 <div>
  <li>
 "Liquidity Regulation and Investor Demand for Safe Assets"
-<i>Available upon request</i>
+<i>(available upon request)</i>
 <details>
  <summary>Abstract</summary>
 <p>Can banking regulation induce convenience yields? Not always. I study how a 2016 change in the Federal Reserve's Liquidity Coverage Ratio (LCR) that allowed banks to hold certain types of municipal securities as high quality liquid assets (HQLA) affected secondary market yields for these securities. I exploit two institutional features to identify the effect of the regulation on bank demand in a differences-in-differences design: first, banks are marginal investors only in one segment of the municipal bond market, the bank-qualified segment; second, the LCR differentially treated only certain types of municipal securities as HQLA. I find no significant pricing effects around the implementation date and little change in covered banking organization holdings of municipal securities. I conclude that the HQLA designation is not enough to create a safe asset: haircuts and exclusion limits affect whether regulatory assets command convenience yields.</p>
@@ -56,12 +56,13 @@ with Chuck Boyer
  </div>
 
 <h4> Publications </h4>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
-<br>
-With Seung Jung Lee and Viktors Stebunovs
-<br>
-<i>Journal of Banking and Finance</i>, March 2020
+<div>
+ <li>
+<a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a> 
+(2020) with Seung Jung Lee and Viktors Stebunovs, <i>Journal of Banking and Finance</i>, Volume 112.
 <details>
  <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">We extend the framework of Aikman et al. (2017) that maps vulnerabilities in the U.S. financial system to a broader set of financial vulnerabilities in 27 advanced and emerging economies. We capture a holistic view of the evolution of financial vulnerabilities before and after a banking crisis. We find that, before a banking crisis, pressures in asset valuations materialize first and then a build-up of imbalances in the external, financial, and nonfinancial sectors occurs. After a crisis, these vulnerabilities subside, but sovereign debt imbalances rise as governments try to mitigate the consequences of the crisis. Our main indexes, which aggregate these vulnerabilities, predicts banking crises better than the credit-to-GDP gap (CGG) or sector-specific vulnerability indexes, especially at long horizons. Our aggregate indexes also explain the variation in the severity of banking crises and the duration of recessions relatively well, as it incorporates possible spillover and amplification channels of financial vulnerabilities from one sector to another. Therefore, our framework is useful for macroprudential policy making and crisis management.</p>
 </details>
+ </li>
+ </div>
