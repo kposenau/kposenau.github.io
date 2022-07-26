@@ -23,7 +23,6 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
   </details>
  </li>
 </div>
- <br>
 <div>
   <li>
    <a style="margin:0; font-weight:bold" href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
