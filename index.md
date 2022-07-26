@@ -11,7 +11,6 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <h2> Research </h2>
 
 <h4> Working papers </h4>
-
 <a href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
 <br>
 (Job market paper)
@@ -51,7 +50,6 @@ With Chuck Boyer
 With Seung Jung Lee and Viktors Stebunovs
 <br>
 <i>Journal of Banking and Finance</i>, March 2020
-
 <details>
  <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">We extend the framework of Aikman et al. (2017) that maps vulnerabilities in the U.S. financial system to a broader set of financial vulnerabilities in 27 advanced and emerging economies. We capture a holistic view of the evolution of financial vulnerabilities before and after a banking crisis. We find that, before a banking crisis, pressures in asset valuations materialize first and then a build-up of imbalances in the external, financial, and nonfinancial sectors occurs. After a crisis, these vulnerabilities subside, but sovereign debt imbalances rise as governments try to mitigate the consequences of the crisis. Our main indexes, which aggregate these vulnerabilities, predicts banking crises better than the credit-to-GDP gap (CGG) or sector-specific vulnerability indexes, especially at long horizons. Our aggregate indexes also explain the variation in the severity of banking crises and the duration of recessions relatively well, as it incorporates possible spillover and amplification channels of financial vulnerabilities from one sector to another. Therefore, our framework is useful for macroprudential policy making and crisis management.</p>
