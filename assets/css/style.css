@@ -312,7 +312,11 @@ footer {
 
 details > summary {
   list-style: none;
+  background-color: #DCDCDC;
+}
 }
 details > summary::-webkit-details-marker {
   display: none;
 }
+
+
