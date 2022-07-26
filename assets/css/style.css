@@ -311,7 +311,7 @@ footer {
 }
 
 details > summary {
-  list-style: none;
+  list-style: square;
   color: #808080;
   font-style:italic;
 }
