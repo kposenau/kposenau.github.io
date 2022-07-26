@@ -10,12 +10,16 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
   
 <h2> Research </h2>
 
-<h4> Job market paper </h4>
+<h4> Working papers </h4>
 
 <a href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
+<br>
+(Job market paper)
+<details>
+ <summary>Abstract</summary>
 <p style="margin-left:10%; margin-right:10%;">How do creditors influence the quality of local public goods through municipal debt contracts? I examine this question in the context of municipal water utility debt covenants. As utilities approach their covenant violation thresholds, they increase prices. But, utilities also reduce hiring growth and reduce manager pay. I also find that officials sequence their budget decisions according to a pecking order hierarchy: they raise revenues as much as possible, then cut spending. The incidence of cuts is first on water system expenses and then on administrative expenses. System problems and pipe breaks are most sensitive to distance to covenant thresholds for the most constrained utilities. These utilities respond on a per capita basis to a $1 move toward covenant thresholds by raising revenues $0.26, cutting water system expenses $0.19, and reducing administrative expenses $0.13. I confirm the pecking order using a drought shock to water demand: covenant-constrained utilities raise prices 9% relative to unconstrained utilities following the shock. Local hostility to taxes imposes an additional friction on the revenue-raising process. After accounting for tax hostility following the drought shock, the overall effect of the rate covenant for an average covenant-constrained utility is a 9.5% reduction in water system expenses.</p>
+</details>
 
-<h4> Working papers </h4>
 
 <a href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
 <br>
