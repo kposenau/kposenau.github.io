@@ -27,7 +27,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
  <p></p>
 <div>
   <li>
-   <a style="margin:0; font-weight:bold" href="https://drive.google.com/file/d/13eEW4hVkFUvJyJWUsdvh86mm1_kkRobB/view">"The Risk and Return of Impact Investing Funds"</a>
+   <a style="margin:0; font-weight:bold" href="https://drive.google.com/file/d/1ZRLNePUkR2dn1jSI-0AQ6KSwinnjNW7g/view">"The Risk and Return of Impact Investing Funds"</a>
    <br>
   with Jessica Jeffers and Tianshu Lyu
   <details>
