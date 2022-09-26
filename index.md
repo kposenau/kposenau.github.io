@@ -29,7 +29,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
   <li>
    <a style="margin:0; font-weight:bold" href="https://drive.google.com/file/d/1ZRLNePUkR2dn1jSI-0AQ6KSwinnjNW7g/view">"The Risk and Return of Impact Investing Funds"</a>
    <br>
-  with Jessica Jeffers and Tianshu Lyu
+   with <a href="https://sites.google.com/view/jessicajeffers/">Jessica Jeffers</a> and <a href="https://www.tianshulyu.com/">Tianshu Lyu</a>
   <details>
    <summary>[+]Abstract</summary>
     <p>We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed from financial statements. When accounting for market risk exposure, impact funds underperform the market, though not more so that comparable private market strategies. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a ``luxury good.'' We find that impact fund cash flows do not exhibit positive correlation with a public market sustainability factor, consistent with the idea that private and public market sustainability strategies capture distinct exposures.
@@ -70,7 +70,7 @@ with Chuck Boyer
  <li>
 <a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a>
   <br>
-with Seung Jung Lee and Viktors Stebunovs (Journal of Banking and Finance, 2020).
+  with <a href="https://sites.google.com/site/seunglee98">Seung Jung Lee</a> and <a href="https://sites.google.com/site/vstebunovs/">Viktors Stebunovs</a> (Journal of Banking and Finance, 2020).
 <details>
  <summary>[+]Abstract</summary>
 <p>We extend the framework of Aikman et al. (2017) that maps vulnerabilities in the U.S. financial system to a broader set of financial vulnerabilities in 27 advanced and emerging economies. We capture a holistic view of the evolution of financial vulnerabilities before and after a banking crisis. We find that, before a banking crisis, pressures in asset valuations materialize first and then a build-up of imbalances in the external, financial, and nonfinancial sectors occurs. After a crisis, these vulnerabilities subside, but sovereign debt imbalances rise as governments try to mitigate the consequences of the crisis. Our main indexes, which aggregate these vulnerabilities, predicts banking crises better than the credit-to-GDP gap (CGG) or sector-specific vulnerability indexes, especially at long horizons. Our aggregate indexes also explain the variation in the severity of banking crises and the duration of recessions relatively well, as it incorporates possible spillover and amplification channels of financial vulnerabilities from one sector to another. Therefore, our framework is useful for macroprudential policy making and crisis management.</p>
