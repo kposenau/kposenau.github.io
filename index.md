@@ -28,10 +28,10 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
   <li>
    <a style="margin:0; font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949530">"The Risk and Return of Impact Investing Funds"</a>
    <br>
-   with <a href="https://sites.google.com/view/jessicajeffers/">Jessica Jeffers</a> and <a href="https://www.tianshulyu.com/">Tianshu Lyu</a>
+   with <a href="https://sites.google.com/view/jessicajeffers/">Jessica Jeffers</a> and <a href="https://www.tianshulyu.com/">Tianshu Lyu</a> (<b>R&R at the Journal of Financial Economics</b>)
   <details>
    <summary>[+]Abstract</summary>
-    <p>We provide the first analysis of the risk exposure and consequent risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a new dataset of impact fund cash flows constructed from financial statements. When accounting for market risk exposure, impact funds underperform the market, though not more so that comparable private market strategies. We exploit known distortions in measures of VC performance to characterize the risk profile of impact funds. Impact funds have substantially lower market beta than VC funds, contradicting the idea of sustainability as a ``luxury good.'' We find that impact fund cash flows do not exhibit positive correlation with a public market sustainability factor, consistent with the idea that private and public market sustainability strategies capture distinct exposures.
+    <p>We provide the first analysis of the risk exposure and risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a dataset of impact fund cash flows and exploit distortions in VC performance measures to characterize risk profiles. Impact funds have a lower market β than comparable private market strategies. Accounting for β, impact funds underperform the public market, though not more so than comparable strategies. We consider alternative pricing models, accounting for sustainability and emerging markets risk. We show investors’ wealth portfolios and taste change the perceived financial merit of impact investing.
    </p>
   </details>
  </li>
