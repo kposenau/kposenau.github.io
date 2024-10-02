@@ -23,21 +23,6 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
   </details>
  </li>
 </div>
- <p></p>
-<div>
-  <li>
-   <a style="margin:0; font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949530">"The Risk and Return of Impact Investing Funds"</a>
-   <br>
-   with <a href="https://sites.google.com/view/jessicajeffers/">Jessica Jeffers</a> and <a href="https://www.tianshulyu.com/">Tianshu Lyu</a> 
-   <br>
-   (<b>Conditionally accepted at the Journal of Financial Economics</b>)
-  <details>
-   <summary>[+]Abstract</summary>
-    <p>We provide the first analysis of the risk exposure and risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a dataset of impact fund cash flows and exploit distortions in VC performance measures to characterize risk profiles. Impact funds have a lower market β than comparable private market strategies. Accounting for β, impact funds underperform the public market, though not more so than comparable strategies. We consider alternative pricing models, accounting for sustainability and emerging markets risk. We show investors’ wealth portfolios and taste change the perceived financial merit of impact investing.
-   </p>
-  </details>
- </li>
-</div>
   <p></p>
 <div>
   <li>
@@ -67,6 +52,20 @@ with Chuck Boyer
 
 <h4> Publications </h4>
 <ul>
+
+<div>
+  <li>
+   <a style="margin:0; font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949530">"The Risk and Return of Impact Investing Funds"</a>
+   <br>
+   with <a href="https://sites.google.com/view/jessicajeffers/">Jessica Jeffers</a> and <a href="https://www.tianshulyu.com/">Tianshu Lyu</a> (Journal of Financial Economics, 2024).
+  <details>
+   <summary>[+]Abstract</summary>
+    <p>We provide the first analysis of the risk exposure and risk-adjusted performance of impact investing funds, private market funds with dual financial and social goals. We introduce a dataset of impact fund cash flows and exploit distortions in VC performance measures to characterize risk profiles. Impact funds have a lower market β than comparable private market strategies. Accounting for β, impact funds underperform the public market, though not more so than comparable strategies. We consider alternative pricing models, accounting for sustainability and emerging markets risk. We show investors’ wealth portfolios and taste change the perceived financial merit of impact investing.
+   </p>
+  </details>
+ </li>
+</div>
+  <p></p>
 <div>
  <li>
 <a style="margin:0; font-weight:bold" href="https://www.sciencedirect.com/science/article/abs/pii/S0378426618300864">"The Anatomy of Financial Vulnerabilities and Banking Crises"</a>
