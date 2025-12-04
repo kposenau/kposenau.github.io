@@ -14,7 +14,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <ul>
 <div>
   <li>
-   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a>
+   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a> <b> (new draft coming soon)</b>
    <br>
    <details>
     <summary>[+]Abstract</summary>
