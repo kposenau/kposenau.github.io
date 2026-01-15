@@ -14,11 +14,11 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <ul>
 <div>
   <li>
-   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_JMP_Booth_current.pdf">"Debt and Water: Effects of Bondholder Protections on Public Goods"</a> <b> (new draft coming soon)</b>
+   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_DebtWater_current.pdf">"Debt and Water: State-Contingent Creditor Influence in Local Government "</a> <b> (new draft!)</b>
    <br>
    <details>
     <summary>[+]Abstract</summary>
-     <p>How do creditors influence the quality of local public goods through municipal debt contracts? I examine this question in the context of municipal water utility debt covenants. As utilities approach their covenant violation thresholds, they increase prices. But, utilities also reduce hiring growth and reduce manager pay. I also find that officials sequence their budget decisions according to a pecking order hierarchy: they raise revenues as much as possible, then cut spending. The incidence of cuts is first on water system expenses and then on administrative expenses. System problems and pipe breaks are most sensitive to distance to covenant thresholds for the most constrained utilities. These utilities respond on a per capita basis to a $1 move toward covenant thresholds by raising revenues $0.26, cutting water system expenses $0.19, and reducing administrative expenses $0.13. I confirm the pecking order using a drought shock to water demand: covenant-constrained utilities raise prices 9% relative to unconstrained utilities following the shock. Local hostility to taxes imposes an additional friction on the revenue-raising process. After accounting for tax hostility following the drought shock, the overall effect of the rate covenant for an average covenant-constrained utility is a 9.5% reduction in water system expenses.
+     <p>This paper asks whether creditor influence through municipal debt contracts affects local government operations. Using a new panel of California local-government water utilities that links financial reports and operating outcomes to hand-collected revenue-bond rate covenants, I show that these covenants matter outside of payment default. During California’s exceptional drought, utilities closer to covenant thresholds mitigate drought-driven revenue losses by raising operating revenues. In more tax-resistant communities, covenant-constrained utilities respond by cutting spending, primarily on the water system. Across utilities, covenant-constrained utilities in the most drought-exposed areas report more post-drought system problems, including pipe breaks and water outages.
     </p>
   </details>
  </li>
