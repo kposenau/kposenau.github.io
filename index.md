@@ -18,7 +18,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
    <br>
    <details>
     <summary>[+]Abstract</summary>
-     <p>This paper asks whether creditor influence through municipal debt contracts affects local government operations. Using a new panel of California local-government water utilities that links financial reports and operating outcomes to hand-collected revenue-bond rate covenants, I show that these covenants matter outside of payment default. During California’s exceptional drought, utilities closer to covenant thresholds mitigated drought-driven revenue losses by raising operating revenues. In more tax-resistant communities, covenant-constrained utilities respond by cutting spending, primarily on the water system. Across utilities, covenant-constrained utilities in the most drought-exposed areas report more post-drought system problems, including pipe breaks and water outages.
+     <p>This paper asks whether creditor influence through municipal debt contracts affects local government operations. Using a new panel of California local-government water utilities that links financial reports and operating outcomes to hand-collected revenue-bond rate covenants, I show that these covenants matter outside of payment default. During California’s exceptional drought, utilities closer to covenant thresholds mitigated drought-driven revenue losses by raising operating revenues. In more tax-resistant communities, covenant-constrained utilities responded by cutting spending, primarily on the water system. Across utilities, covenant-constrained utilities in the most drought-exposed areas report more post-drought system problems, including pipe breaks and water outages.
     </p>
   </details>
  </li>
