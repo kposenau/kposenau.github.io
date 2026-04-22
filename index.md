@@ -14,7 +14,7 @@ I am an Assistant Professor of Finance at the SC Johnson Cornell College of Busi
 <ul>
 <div>
   <li>
-   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_DebtWater_current.pdf">"Debt and Water: State-Contingent Creditor Influence in Local Government "</a> <b> (new draft!)</b>
+   <a style="margin:0; font-weight:bold" href="https://kposenau.github.io/files/Posenau_DebtWater_current.pdf">"Debt and Water: State-Contingent Creditor Influence in Local Government "</a>
    <br>
    <details>
     <summary>[+]Abstract</summary>
